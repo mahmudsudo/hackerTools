@@ -1,3 +1,3 @@
-module main
+module PortGo
 
 go 1.16
